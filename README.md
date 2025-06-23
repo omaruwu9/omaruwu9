@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @omaruwu9
-- 👀 I’m interested in the data base, python and AI
-- 🌱 I’m currently learning how is that I can use github
-- 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me ...
+Ingeniero en Sistemas Computacionales con especialidad en Ciencia de Datos. Tengo experiencia en soporte técnico (Help Desk) y también he trabajado como staff de capacitación. Me interesa desarrollarme en áreas como análisis de datos y administración, donde pueda aplicar mis conocimientos para mejorar procesos y apoyar en la toma de decisiones.
 
-<!---
-omaruwu9/omaruwu9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tengo certificaciones en Python, Java Back End, Data Science, Scrum y CCNA, además de manejo de herramientas como Excel, Power BI y tecnologías Microsoft. Me considero una persona responsable, comprometida y con buena actitud para trabajar en equipo y aprender cosas nuevas.
+
+Busco seguir creciendo profesionalmente y aportar valor donde pueda combinar la tecnología con la mejora continua.
